@@ -5,12 +5,12 @@
 Tracking pillar positions and analyzing the contractile waveform drawn from EHT movements
 
 ## Requirement
-Python
-SciPy
-Matplotlib
-Numpy
-pandas
-OpenCV
+* Python
+* SciPy
+* Matplotlib
+* Numpy
+* pandas
+* OpenCV
 
 
 ## Reference
